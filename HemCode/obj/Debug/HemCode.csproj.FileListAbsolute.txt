@@ -1,0 +1,10 @@
+D:\Disk D old\projects VS c++\HemCode\HemCode\bin\Debug\HemCode.exe.config
+D:\Disk D old\projects VS c++\HemCode\HemCode\bin\Debug\HemCode.exe
+D:\Disk D old\projects VS c++\HemCode\HemCode\bin\Debug\HemCode.pdb
+D:\Disk D old\projects VS c++\HemCode\HemCode\obj\Debug\HemCode.csprojAssemblyReference.cache
+D:\Disk D old\projects VS c++\HemCode\HemCode\obj\Debug\HemCode.Form1.resources
+D:\Disk D old\projects VS c++\HemCode\HemCode\obj\Debug\HemCode.Properties.Resources.resources
+D:\Disk D old\projects VS c++\HemCode\HemCode\obj\Debug\HemCode.csproj.GenerateResource.cache
+D:\Disk D old\projects VS c++\HemCode\HemCode\obj\Debug\HemCode.csproj.CoreCompileInputs.cache
+D:\Disk D old\projects VS c++\HemCode\HemCode\obj\Debug\HemCode.exe
+D:\Disk D old\projects VS c++\HemCode\HemCode\obj\Debug\HemCode.pdb
